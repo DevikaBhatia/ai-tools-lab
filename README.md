@@ -1,2 +1,2 @@
-# ai-tools-lab
+# Ai-tools-lab
 Machine Exercise -3
